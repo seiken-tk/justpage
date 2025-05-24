@@ -16,6 +16,10 @@ JustPageは、ブラウザのUI要素（ブックマークバー、ボタン、U
 4. 「パッケージ化されていない拡張機能を読み込む」ボタンをクリックします
 5. ダウンロードしたリポジトリのフォルダを選択します
 
+もしくは、以下のchromeウェブストアページからインストールしてください。
+
+[https://chromewebstore.google.com/detail/justpage/ceahoikejnabnndjbonfgdiddnjbcgba](https://chromewebstore.google.com/detail/justpage/ceahoikejnabnndjbonfgdiddnjbcgba)
+
 ## 使用方法
 
 1. インストール後、Chromeのツールバーに表示されるJustPageのアイコンをクリックします

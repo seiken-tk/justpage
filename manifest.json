@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "JustPage",
-  "version": "1.0",
+  "version": "1.1",
   "description": "ブラウザUIを非表示にしてWebページのコンテンツのみを表示します",
   "action": {
     "default_title": "JustPage",
@@ -11,7 +11,7 @@
       "128": "images/icon128.png"
     }
   },
-  "permissions": ["activeTab", "scripting", "windows"],
+  "permissions": ["activeTab", "scripting", "storage"],
   "host_permissions": ["<all_urls>"],
   "background": {
     "service_worker": "background.js"
